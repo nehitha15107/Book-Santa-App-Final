@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "book-santa-app-final",
+    "slug": "snack-4d07f235-ca5f-4a26-a161-945b4fc3f786",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Book Santa App updated version.."
+  }
+}
